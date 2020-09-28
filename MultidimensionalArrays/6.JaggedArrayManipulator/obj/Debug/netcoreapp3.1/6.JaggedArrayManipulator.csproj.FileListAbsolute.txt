@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.exe
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\bin\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\6.JaggedArrayManipulator\obj\Debug\netcoreapp3.1\6.JaggedArrayManipulator.pdb
