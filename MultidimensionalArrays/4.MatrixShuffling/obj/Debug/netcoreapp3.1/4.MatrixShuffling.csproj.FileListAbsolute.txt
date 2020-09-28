@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.exe
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\bin\Debug\netcoreapp3.1\4.MatrixShuffling.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\4.MatrixShuffling\obj\Debug\netcoreapp3.1\4.MatrixShuffling.pdb

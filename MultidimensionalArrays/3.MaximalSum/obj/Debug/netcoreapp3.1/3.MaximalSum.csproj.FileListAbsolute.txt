@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.exe
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.deps.json
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.runtimeconfig.json
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.runtimeconfig.dev.json
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\bin\Debug\netcoreapp3.1\3.MaximalSum.pdb
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\obj\Debug\netcoreapp3.1\3.MaximalSum.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\obj\Debug\netcoreapp3.1\3.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\obj\Debug\netcoreapp3.1\3.MaximalSum.AssemblyInfo.cs
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\obj\Debug\netcoreapp3.1\3.MaximalSum.dll
+C:\Users\HP\source\repos\MultidimensionalArrays\3.MaximalSum\obj\Debug\netcoreapp3.1\3.MaximalSum.pdb
