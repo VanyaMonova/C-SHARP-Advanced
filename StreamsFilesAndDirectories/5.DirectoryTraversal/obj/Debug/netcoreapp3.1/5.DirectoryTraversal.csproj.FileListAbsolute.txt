@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\Streams, Files and Directories\5.DirectoryTraversal\bin\Debug\netcoreapp3.1\5.DirectoryTraversal.exe
+C:\Users\HP\source\repos\Streams, Files and Directories\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Streams, Files and Directories\5.DirectoryTraversal\obj\Debug\netcoreapp3.1\5.DirectoryTraversal.AssemblyInfo.cs
