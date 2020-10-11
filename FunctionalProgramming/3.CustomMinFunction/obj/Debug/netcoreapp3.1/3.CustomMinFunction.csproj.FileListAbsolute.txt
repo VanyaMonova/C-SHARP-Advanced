@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.exe
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.deps.json
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.runtimeconfig.json
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.dll
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\bin\Debug\netcoreapp3.1\3.CustomMinFunction.pdb
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.AssemblyInfo.cs
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.dll
+C:\Users\HP\source\repos\Functional Programming\3.CustomMinFunction\obj\Debug\netcoreapp3.1\3.CustomMinFunction.pdb
