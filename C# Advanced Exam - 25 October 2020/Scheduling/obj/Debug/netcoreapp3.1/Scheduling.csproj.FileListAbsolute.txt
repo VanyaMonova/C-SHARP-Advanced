@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.exe
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.deps.json
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.json
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\bin\Debug\netcoreapp3.1\Scheduling.pdb
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.AssemblyInfo.cs
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.dll
+C:\Users\HP\source\repos\StacksAndQueues\Scheduling\obj\Debug\netcoreapp3.1\Scheduling.pdb
